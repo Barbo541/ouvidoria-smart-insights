@@ -29,15 +29,25 @@ python -m venv .venv
 Acesse no navegador:
  http://localhost:8501
 
- Resultados Obtidos (Base Sintética)
-Métrica	Valor Exemplo
-AUC	0.68
-Precision	0.00
-Recall	0.00
-F1-score	0.00
-Precision@10%	0.30
+ ##  Resultados Obtidos (Base Sintética)
 
- Observação: Os dados utilizados são sintéticos e têm o propósito de demonstrar o processo completo de modelagem e deploy.
+| Métrica         | Valor |
+|-----------------|------:|
+| AUC             | 0.68  |
+| Precision       | 0.00  |
+| Recall          | 0.00  |
+| F1-score        | 0.00  |
+| Precision@10%   | 0.30  |
+
+>  Os dados são sintéticos e servem para demonstrar o processo completo (ETL → Model → App).
+
+##  Painel (Streamlit)
+
+<p align="center">
+  <img src="app/screenshot.png" alt="Streamlit - Ouvidoria Smart Insights" width="800"/>
+</p>
+
+
 
  Próximos Passos
 🔹 Balancear classes e ajustar limiar de decisão.
