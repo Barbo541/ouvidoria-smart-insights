@@ -6,7 +6,8 @@
   <a href="#-licença"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License"></a>
 </p>
 
-<h1 align="center">📊 ouvidoria-smart-insights</h1>
+<h1 align="center">📊 Ouvidoria Smart Insights</h1>
+
 
 <p align="center">
   Pipeline de Ouvidoria com <b>ETL → NLP (TF-IDF) → Classificação</b> e app <b>Streamlit</b>.<br/>
