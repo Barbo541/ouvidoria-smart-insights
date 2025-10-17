@@ -1,0 +1,1001 @@
+id,produto,canal,uf,nps,tempo_resposta_h,reincidente,texto_reclamacao,vira_ouvidoria,texto_limpo
+1,cartao,agencia,SC,7,35,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+2,emprestimo,agencia,PE,5,13,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+3,app,agencia,PR,6,13,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+4,app,email,MG,5,15,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+5,emprestimo,agencia,PE,7,28,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+6,app,agencia,BA,4,14,0,falha para gerar comprovante,0,falha para gerar comprovante
+7,conta,app,SC,4,31,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+8,emprestimo,agencia,SP,4,26,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+9,cartao,agencia,SC,7,24,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+10,conta,agencia,MG,5,16,1,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+11,conta,agencia,SC,2,19,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+12,cartao,chat,PE,5,18,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+13,app,email,SP,4,29,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+14,cartao,chat,RS,7,20,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+15,conta,app,RJ,3,29,1,cobranca em duplicidade,0,cobranca em duplicidade
+16,app,app,PR,7,22,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+17,emprestimo,telefone,DF,3,12,0,cobranca em duplicidade,0,cobranca em duplicidade
+18,conta,telefone,PE,5,32,0,falha para gerar comprovante,0,falha para gerar comprovante
+19,cartao,app,PR,7,3,0,falha para gerar comprovante,0,falha para gerar comprovante
+20,emprestimo,app,PR,6,17,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+21,cartao,chat,SP,3,26,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+22,cartao,telefone,SC,8,9,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+23,app,chat,PR,7,21,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+24,conta,agencia,SP,9,58,0,cobranca em duplicidade,0,cobranca em duplicidade
+25,emprestimo,chat,CE,4,19,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+26,conta,email,SP,5,11,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+27,cartao,telefone,MG,9,25,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+28,app,telefone,MG,4,49,0,cobranca em duplicidade,0,cobranca em duplicidade
+29,app,telefone,MG,6,22,0,falha para gerar comprovante,0,falha para gerar comprovante
+30,cartao,app,RS,3,8,0,cobranca em duplicidade,0,cobranca em duplicidade
+31,app,email,MG,6,39,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+32,conta,telefone,CE,9,26,0,cobranca em duplicidade,1,cobranca em duplicidade
+33,cartao,app,SP,5,19,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+34,cartao,app,MG,7,19,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+35,app,app,RJ,6,31,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+36,app,agencia,PE,4,19,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+37,app,app,PR,6,18,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+38,emprestimo,agencia,BA,5,15,1,falha para gerar comprovante,0,falha para gerar comprovante
+39,cartao,agencia,CE,6,26,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+40,cartao,email,PE,3,16,1,limite reduzido sem aviso,1,limite reduzido sem aviso
+41,conta,email,MG,1,22,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+42,app,agencia,MG,4,22,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+43,emprestimo,telefone,MG,3,46,1,transferencia nao executada no horario,1,transferencia nao executada no horario
+44,conta,chat,BA,9,12,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+45,emprestimo,app,RJ,5,7,1,transferencia nao executada no horario,1,transferencia nao executada no horario
+46,cartao,app,CE,6,36,0,cobranca em duplicidade,0,cobranca em duplicidade
+47,app,chat,PE,4,27,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+48,cartao,telefone,SC,6,14,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+49,app,app,SP,6,29,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+50,app,email,MG,5,27,0,falha para gerar comprovante,0,falha para gerar comprovante
+51,emprestimo,app,CE,6,41,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+52,emprestimo,agencia,MG,5,2,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+53,conta,telefone,RS,5,23,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+54,app,email,SC,9,38,0,falha para gerar comprovante,0,falha para gerar comprovante
+55,conta,agencia,MG,5,24,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+56,cartao,telefone,RS,5,38,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+57,emprestimo,app,RS,5,9,0,falha para gerar comprovante,0,falha para gerar comprovante
+58,conta,agencia,DF,3,24,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+59,emprestimo,agencia,RJ,8,31,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+60,emprestimo,agencia,DF,9,1,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+61,app,app,PE,6,34,0,cobranca em duplicidade,0,cobranca em duplicidade
+62,emprestimo,telefone,PE,6,27,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+63,conta,app,DF,7,11,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+64,cartao,chat,DF,6,34,0,falha para gerar comprovante,0,falha para gerar comprovante
+65,cartao,agencia,CE,7,51,0,falha para gerar comprovante,0,falha para gerar comprovante
+66,conta,chat,SP,6,39,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+67,app,chat,BA,6,30,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+68,conta,email,SP,5,29,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+69,cartao,agencia,RJ,7,26,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+70,conta,app,CE,7,19,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+71,cartao,app,RJ,2,8,0,cobranca em duplicidade,0,cobranca em duplicidade
+72,cartao,app,SC,5,26,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+73,conta,app,PR,8,25,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+74,app,agencia,SP,5,33,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+75,emprestimo,app,SP,6,22,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+76,conta,app,PE,3,16,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+77,app,chat,PR,8,19,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+78,conta,agencia,PR,6,22,0,falha para gerar comprovante,0,falha para gerar comprovante
+79,cartao,app,DF,6,36,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+80,conta,agencia,DF,4,4,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+81,app,app,MG,9,37,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+82,emprestimo,agencia,RS,6,31,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+83,cartao,chat,RS,10,26,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+84,cartao,email,CE,5,14,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+85,conta,chat,SP,7,37,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+86,emprestimo,telefone,PR,7,2,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+87,emprestimo,email,PR,7,15,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+88,emprestimo,email,SP,6,17,0,falha para gerar comprovante,0,falha para gerar comprovante
+89,app,telefone,DF,5,33,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+90,emprestimo,app,PR,9,12,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+91,emprestimo,app,RS,5,41,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+92,conta,chat,DF,4,18,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+93,cartao,telefone,RJ,8,1,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+94,app,email,CE,5,20,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+95,emprestimo,telefone,PE,7,28,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+96,emprestimo,email,BA,5,14,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+97,emprestimo,chat,CE,4,23,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+98,conta,app,SP,7,22,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+99,conta,telefone,RJ,5,27,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+100,emprestimo,email,CE,8,20,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+101,conta,email,SC,3,32,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+102,emprestimo,chat,DF,9,9,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+103,app,agencia,SC,2,8,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+104,app,email,CE,2,30,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+105,cartao,chat,RS,7,33,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+106,app,app,BA,6,6,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+107,emprestimo,agencia,BA,6,16,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+108,conta,app,DF,4,29,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+109,emprestimo,agencia,MG,1,43,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+110,emprestimo,chat,PR,5,21,1,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+111,emprestimo,telefone,PR,7,48,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+112,emprestimo,app,RJ,2,25,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+113,conta,app,RJ,3,31,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+114,app,agencia,CE,5,3,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+115,app,telefone,BA,2,4,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+116,app,agencia,MG,6,15,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+117,cartao,app,BA,6,29,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+118,emprestimo,chat,CE,8,17,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+119,conta,agencia,PR,7,41,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+120,app,chat,DF,7,1,1,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+121,cartao,telefone,RS,4,21,0,cobranca em duplicidade,1,cobranca em duplicidade
+122,app,app,SC,8,12,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+123,conta,telefone,MG,5,32,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+124,cartao,chat,MG,2,32,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+125,emprestimo,telefone,MG,1,6,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+126,emprestimo,telefone,MG,3,10,0,falha para gerar comprovante,0,falha para gerar comprovante
+127,emprestimo,app,BA,6,25,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+128,cartao,app,PE,8,38,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+129,conta,app,MG,9,30,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+130,conta,telefone,MG,3,48,0,falha para gerar comprovante,0,falha para gerar comprovante
+131,emprestimo,email,RJ,7,29,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+132,emprestimo,telefone,CE,6,2,1,cobranca em duplicidade,1,cobranca em duplicidade
+133,emprestimo,agencia,CE,9,40,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+134,cartao,app,PE,3,28,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+135,conta,app,DF,9,34,1,cobranca em duplicidade,0,cobranca em duplicidade
+136,cartao,email,PR,3,22,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+137,cartao,telefone,BA,2,22,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+138,app,email,CE,4,10,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+139,emprestimo,agencia,PE,5,9,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+140,app,app,SP,6,17,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+141,emprestimo,telefone,RJ,6,10,1,atendimento demorado no telefone,1,atendimento demorado no telefone
+142,app,email,DF,3,1,0,falha para gerar comprovante,0,falha para gerar comprovante
+143,emprestimo,telefone,PR,8,1,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+144,conta,app,PE,4,13,1,falha para gerar comprovante,0,falha para gerar comprovante
+145,conta,agencia,PR,9,24,0,cobranca em duplicidade,0,cobranca em duplicidade
+146,emprestimo,telefone,SC,10,34,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+147,emprestimo,email,RS,7,24,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+148,conta,app,BA,2,31,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+149,conta,agencia,RS,4,33,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+150,cartao,chat,PR,6,11,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+151,emprestimo,chat,CE,5,21,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+152,app,email,RJ,3,9,1,falha para gerar comprovante,1,falha para gerar comprovante
+153,app,telefone,MG,0,3,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+154,emprestimo,app,SP,5,36,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+155,emprestimo,telefone,CE,6,25,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+156,emprestimo,email,PR,5,8,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+157,emprestimo,app,SC,7,16,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+158,emprestimo,email,PE,7,40,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+159,cartao,email,SP,4,22,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+160,conta,chat,CE,6,24,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+161,app,email,RJ,7,10,0,app travando na tela de pagamento,1,app travando na tela de pagamento
+162,conta,app,RJ,7,29,0,falha para gerar comprovante,0,falha para gerar comprovante
+163,emprestimo,chat,SC,0,28,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+164,app,app,CE,3,15,0,falha para gerar comprovante,0,falha para gerar comprovante
+165,emprestimo,agencia,SP,6,43,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+166,conta,agencia,PE,3,20,1,cobranca em duplicidade,0,cobranca em duplicidade
+167,app,app,PR,5,26,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+168,conta,agencia,PE,5,6,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+169,emprestimo,telefone,RS,7,28,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+170,conta,email,PE,7,20,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+171,conta,email,PE,8,22,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+172,emprestimo,chat,PE,7,23,0,falha para gerar comprovante,0,falha para gerar comprovante
+173,conta,chat,MG,6,32,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+174,conta,app,CE,8,17,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+175,app,agencia,RJ,5,19,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+176,app,email,PE,7,1,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+177,emprestimo,telefone,BA,8,38,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+178,emprestimo,app,RS,5,35,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+179,app,email,BA,7,32,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+180,app,telefone,PR,7,12,0,falha para gerar comprovante,0,falha para gerar comprovante
+181,app,agencia,MG,10,7,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+182,emprestimo,telefone,BA,6,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+183,conta,email,RS,5,11,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+184,cartao,app,SC,3,21,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+185,app,app,SP,10,16,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+186,app,app,RS,6,25,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+187,emprestimo,email,RS,5,16,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+188,app,agencia,SP,8,42,0,falha para gerar comprovante,0,falha para gerar comprovante
+189,conta,telefone,MG,7,31,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+190,conta,agencia,SC,4,39,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+191,emprestimo,email,RJ,5,25,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+192,conta,app,BA,4,29,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+193,app,agencia,SP,5,45,1,cobranca em duplicidade,1,cobranca em duplicidade
+194,cartao,email,MG,5,15,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+195,emprestimo,agencia,RS,6,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+196,conta,telefone,PR,4,24,1,transferencia nao executada no horario,1,transferencia nao executada no horario
+197,conta,app,RJ,8,26,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+198,app,agencia,RJ,6,24,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+199,conta,app,SC,5,20,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+200,emprestimo,chat,BA,9,19,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+201,conta,chat,SC,4,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+202,cartao,telefone,PE,6,8,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+203,app,app,BA,3,20,0,cobranca em duplicidade,1,cobranca em duplicidade
+204,app,email,SP,8,20,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+205,conta,chat,PR,4,41,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+206,cartao,chat,RS,5,16,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+207,cartao,app,RS,6,34,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+208,cartao,email,SC,3,2,0,cobranca em duplicidade,1,cobranca em duplicidade
+209,cartao,email,DF,8,28,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+210,cartao,chat,SP,4,30,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+211,app,email,BA,6,27,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+212,emprestimo,telefone,MG,9,39,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+213,emprestimo,chat,PR,6,19,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+214,app,telefone,MG,9,14,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+215,conta,telefone,DF,5,44,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+216,app,telefone,CE,5,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+217,app,email,RJ,7,42,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+218,cartao,email,DF,6,16,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+219,cartao,app,BA,1,1,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+220,emprestimo,agencia,DF,5,48,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+221,emprestimo,app,PR,1,27,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+222,app,email,CE,4,24,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+223,conta,email,RS,5,1,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+224,app,telefone,RJ,3,33,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+225,emprestimo,telefone,PE,5,28,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+226,emprestimo,app,SC,5,5,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+227,app,chat,DF,5,32,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+228,emprestimo,email,RJ,6,46,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+229,app,email,CE,4,29,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+230,conta,email,PR,6,15,0,falha para gerar comprovante,0,falha para gerar comprovante
+231,conta,app,BA,3,28,0,falha para gerar comprovante,0,falha para gerar comprovante
+232,emprestimo,chat,SP,5,20,0,falha para gerar comprovante,1,falha para gerar comprovante
+233,cartao,email,MG,5,28,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+234,emprestimo,email,RJ,2,33,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+235,emprestimo,app,DF,7,26,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+236,conta,agencia,PE,5,22,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+237,cartao,app,PE,6,13,0,cobranca em duplicidade,0,cobranca em duplicidade
+238,cartao,app,BA,2,46,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+239,emprestimo,email,CE,8,20,1,falha para gerar comprovante,1,falha para gerar comprovante
+240,cartao,app,RJ,6,31,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+241,emprestimo,email,CE,2,39,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+242,conta,telefone,PR,7,24,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+243,conta,app,SC,6,13,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+244,app,agencia,DF,5,12,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+245,emprestimo,chat,SP,5,1,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+246,app,chat,DF,3,41,0,cobranca em duplicidade,1,cobranca em duplicidade
+247,emprestimo,email,SP,5,16,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+248,emprestimo,agencia,PE,8,22,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+249,conta,telefone,PR,7,15,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+250,emprestimo,email,BA,3,7,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+251,conta,app,BA,5,1,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+252,emprestimo,app,SP,5,44,0,falha para gerar comprovante,0,falha para gerar comprovante
+253,cartao,email,PE,7,14,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+254,app,app,BA,4,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+255,cartao,app,PR,6,10,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+256,conta,email,MG,8,27,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+257,emprestimo,telefone,DF,9,25,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+258,emprestimo,telefone,CE,2,26,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+259,emprestimo,agencia,SP,3,1,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+260,emprestimo,agencia,BA,8,21,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+261,conta,chat,PR,7,10,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+262,cartao,agencia,SP,4,42,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+263,cartao,chat,PE,8,21,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+264,emprestimo,telefone,MG,2,15,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+265,cartao,email,SP,4,33,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+266,app,email,PE,4,10,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+267,conta,email,RS,7,4,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+268,emprestimo,agencia,RS,3,8,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+269,conta,email,CE,8,22,0,cobranca em duplicidade,1,cobranca em duplicidade
+270,cartao,telefone,BA,1,35,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+271,conta,chat,PE,5,15,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+272,emprestimo,chat,MG,9,11,0,falha para gerar comprovante,1,falha para gerar comprovante
+273,conta,chat,RJ,5,40,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+274,cartao,email,RS,6,20,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+275,cartao,email,RS,10,2,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+276,cartao,app,PE,7,38,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+277,cartao,email,SP,6,36,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+278,emprestimo,agencia,SC,6,37,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+279,cartao,email,RJ,3,30,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+280,conta,app,DF,6,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+281,app,agencia,DF,8,30,0,falha para gerar comprovante,0,falha para gerar comprovante
+282,app,app,BA,2,33,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+283,conta,telefone,BA,9,38,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+284,emprestimo,email,SP,4,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+285,app,telefone,MG,2,35,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+286,app,app,PR,3,17,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+287,conta,telefone,CE,6,22,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+288,conta,agencia,RS,3,17,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+289,conta,agencia,PE,2,26,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+290,cartao,agencia,BA,6,46,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+291,conta,telefone,SP,4,1,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+292,conta,email,RJ,4,17,1,falha para gerar comprovante,0,falha para gerar comprovante
+293,cartao,app,RJ,4,47,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+294,emprestimo,email,PE,6,24,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+295,conta,chat,DF,4,34,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+296,conta,agencia,PE,5,41,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+297,app,agencia,SC,4,27,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+298,conta,agencia,SC,4,17,0,falha para gerar comprovante,0,falha para gerar comprovante
+299,conta,agencia,PR,3,24,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+300,emprestimo,agencia,SC,3,22,1,cobranca em duplicidade,1,cobranca em duplicidade
+301,conta,chat,CE,5,24,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+302,cartao,agencia,PE,3,26,0,falha para gerar comprovante,0,falha para gerar comprovante
+303,cartao,app,PR,1,12,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+304,app,email,RS,6,36,1,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+305,emprestimo,chat,BA,2,20,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+306,cartao,email,DF,5,29,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+307,conta,agencia,RJ,6,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+308,conta,email,CE,6,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+309,app,email,SP,6,20,0,falha para gerar comprovante,0,falha para gerar comprovante
+310,conta,telefone,BA,4,32,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+311,conta,email,DF,7,24,0,falha para gerar comprovante,0,falha para gerar comprovante
+312,cartao,chat,RJ,6,20,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+313,conta,telefone,RS,7,6,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+314,cartao,agencia,DF,5,31,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+315,app,telefone,SC,6,15,1,cobranca em duplicidade,0,cobranca em duplicidade
+316,cartao,app,RS,7,10,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+317,emprestimo,email,RJ,5,32,0,cobranca em duplicidade,1,cobranca em duplicidade
+318,app,telefone,CE,4,9,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+319,emprestimo,telefone,DF,8,4,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+320,conta,agencia,BA,1,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+321,emprestimo,email,MG,8,14,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+322,cartao,app,CE,2,29,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+323,emprestimo,email,PR,7,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+324,emprestimo,app,CE,5,29,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+325,app,app,SP,8,1,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+326,emprestimo,app,SC,3,36,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+327,emprestimo,chat,RS,4,11,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+328,conta,telefone,PE,4,39,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+329,emprestimo,telefone,RJ,4,14,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+330,cartao,agencia,SC,5,2,0,falha para gerar comprovante,0,falha para gerar comprovante
+331,conta,app,PR,6,26,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+332,emprestimo,chat,BA,7,9,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+333,conta,email,SC,5,21,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+334,emprestimo,telefone,PR,5,33,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+335,conta,app,SC,3,33,1,atendimento demorado no telefone,1,atendimento demorado no telefone
+336,conta,telefone,BA,6,17,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+337,cartao,chat,RJ,6,14,0,cobranca em duplicidade,1,cobranca em duplicidade
+338,cartao,agencia,CE,6,35,0,falha para gerar comprovante,0,falha para gerar comprovante
+339,app,agencia,RS,4,50,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+340,app,chat,RS,3,37,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+341,cartao,email,RS,3,45,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+342,cartao,app,PE,6,23,1,falha para gerar comprovante,0,falha para gerar comprovante
+343,cartao,email,PE,4,25,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+344,cartao,chat,RJ,0,26,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+345,cartao,app,PE,5,25,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+346,conta,app,RS,6,35,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+347,conta,chat,SC,4,31,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+348,conta,telefone,PE,3,37,0,cobranca em duplicidade,0,cobranca em duplicidade
+349,conta,app,MG,5,2,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+350,emprestimo,email,PR,6,28,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+351,conta,agencia,BA,7,21,1,cobranca em duplicidade,1,cobranca em duplicidade
+352,app,telefone,BA,6,8,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+353,app,telefone,BA,6,28,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+354,emprestimo,email,BA,5,18,0,falha para gerar comprovante,0,falha para gerar comprovante
+355,cartao,agencia,PE,6,33,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+356,app,telefone,SP,2,42,0,falha para gerar comprovante,1,falha para gerar comprovante
+357,conta,agencia,RJ,5,17,0,cobranca em duplicidade,0,cobranca em duplicidade
+358,conta,app,PE,6,29,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+359,app,telefone,CE,6,25,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+360,app,telefone,PE,4,24,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+361,app,telefone,SC,6,36,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+362,cartao,agencia,PR,4,19,0,falha para gerar comprovante,0,falha para gerar comprovante
+363,cartao,email,BA,5,20,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+364,conta,agencia,MG,4,35,1,cobranca em duplicidade,0,cobranca em duplicidade
+365,conta,telefone,SP,4,11,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+366,conta,telefone,RJ,7,15,1,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+367,emprestimo,email,PE,8,31,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+368,app,app,RS,4,16,0,falha para gerar comprovante,0,falha para gerar comprovante
+369,emprestimo,chat,BA,6,24,0,app travando na tela de pagamento,1,app travando na tela de pagamento
+370,emprestimo,app,RJ,10,26,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+371,app,agencia,PR,5,18,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+372,conta,telefone,CE,4,24,0,cobranca em duplicidade,1,cobranca em duplicidade
+373,emprestimo,telefone,BA,5,14,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+374,cartao,telefone,MG,8,20,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+375,conta,app,PE,7,35,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+376,conta,chat,SP,6,22,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+377,emprestimo,agencia,DF,6,14,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+378,cartao,chat,PE,10,27,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+379,app,telefone,PE,4,11,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+380,cartao,app,MG,8,14,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+381,emprestimo,telefone,SC,2,15,1,cobranca em duplicidade,0,cobranca em duplicidade
+382,app,email,BA,7,1,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+383,app,chat,RS,8,30,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+384,conta,telefone,SP,6,33,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+385,app,chat,SC,6,10,0,falha para gerar comprovante,1,falha para gerar comprovante
+386,conta,telefone,BA,3,46,0,falha para gerar comprovante,0,falha para gerar comprovante
+387,app,chat,RJ,8,27,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+388,cartao,email,CE,7,5,1,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+389,emprestimo,agencia,DF,8,35,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+390,cartao,app,BA,5,13,0,cobranca em duplicidade,0,cobranca em duplicidade
+391,app,chat,MG,9,24,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+392,emprestimo,email,DF,8,24,0,cobranca em duplicidade,0,cobranca em duplicidade
+393,app,telefone,CE,10,20,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+394,emprestimo,telefone,PE,1,30,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+395,emprestimo,app,PR,4,5,1,atendimento demorado no telefone,1,atendimento demorado no telefone
+396,cartao,app,MG,10,34,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+397,app,chat,BA,1,21,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+398,app,telefone,BA,9,32,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+399,emprestimo,agencia,PR,3,1,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+400,app,telefone,RS,9,12,0,falha para gerar comprovante,0,falha para gerar comprovante
+401,app,chat,BA,8,19,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+402,app,app,SP,5,43,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+403,cartao,app,SP,6,22,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+404,app,chat,PR,7,16,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+405,conta,chat,SC,2,32,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+406,conta,chat,CE,5,21,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+407,conta,agencia,SC,6,15,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+408,cartao,agencia,PE,6,19,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+409,conta,app,BA,2,6,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+410,app,chat,MG,7,1,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+411,conta,telefone,BA,6,37,0,cobranca em duplicidade,0,cobranca em duplicidade
+412,conta,chat,DF,2,36,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+413,app,agencia,CE,4,27,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+414,app,email,SC,4,32,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+415,cartao,app,SC,7,33,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+416,emprestimo,email,SC,5,25,0,falha para gerar comprovante,0,falha para gerar comprovante
+417,app,app,MG,3,8,1,cobranca em duplicidade,1,cobranca em duplicidade
+418,app,chat,DF,5,39,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+419,conta,email,PR,6,31,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+420,emprestimo,agencia,SC,7,20,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+421,cartao,agencia,RJ,5,22,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+422,emprestimo,telefone,CE,6,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+423,emprestimo,telefone,DF,8,50,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+424,conta,telefone,RS,7,26,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+425,app,agencia,SC,9,28,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+426,conta,app,PE,6,33,1,cobranca em duplicidade,0,cobranca em duplicidade
+427,emprestimo,agencia,PR,7,3,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+428,app,app,RJ,5,2,1,falha para gerar comprovante,1,falha para gerar comprovante
+429,conta,app,SC,8,17,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+430,app,agencia,SC,5,36,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+431,conta,chat,DF,6,28,0,falha para gerar comprovante,0,falha para gerar comprovante
+432,emprestimo,agencia,PR,5,48,0,cobranca em duplicidade,0,cobranca em duplicidade
+433,cartao,telefone,BA,5,1,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+434,cartao,chat,MG,8,41,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+435,app,email,BA,8,12,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+436,conta,telefone,SP,10,31,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+437,emprestimo,agencia,SC,4,12,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+438,conta,app,PE,5,28,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+439,app,email,BA,6,31,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+440,cartao,chat,MG,2,14,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+441,conta,chat,RS,4,40,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+442,emprestimo,telefone,RJ,4,21,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+443,conta,chat,BA,4,19,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+444,cartao,chat,RJ,4,43,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+445,emprestimo,email,MG,4,22,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+446,emprestimo,agencia,RJ,6,12,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+447,cartao,email,PR,7,38,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+448,app,email,CE,7,22,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+449,cartao,chat,RS,9,17,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+450,cartao,telefone,BA,6,39,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+451,emprestimo,email,PR,4,21,0,cobranca em duplicidade,0,cobranca em duplicidade
+452,emprestimo,chat,PR,3,18,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+453,emprestimo,email,CE,4,32,0,cobranca em duplicidade,0,cobranca em duplicidade
+454,emprestimo,chat,PE,6,42,0,app travando na tela de pagamento,1,app travando na tela de pagamento
+455,conta,email,RS,5,35,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+456,app,app,PE,5,39,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+457,cartao,app,RS,5,40,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+458,emprestimo,chat,PR,4,34,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+459,emprestimo,email,RS,5,28,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+460,conta,agencia,MG,7,23,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+461,emprestimo,chat,RJ,6,36,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+462,cartao,telefone,BA,6,16,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+463,conta,telefone,RS,3,9,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+464,cartao,chat,RS,5,12,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+465,cartao,chat,SC,7,14,0,cobranca em duplicidade,0,cobranca em duplicidade
+466,emprestimo,agencia,PE,5,21,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+467,conta,app,PR,2,25,0,cobranca em duplicidade,0,cobranca em duplicidade
+468,cartao,email,PE,7,34,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+469,app,agencia,SP,4,15,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+470,app,chat,RS,7,30,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+471,conta,telefone,RS,7,18,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+472,app,telefone,PE,7,36,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+473,emprestimo,telefone,SC,4,18,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+474,conta,email,PR,8,32,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+475,cartao,telefone,RS,5,35,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+476,conta,email,MG,9,1,1,cobranca em duplicidade,1,cobranca em duplicidade
+477,app,app,CE,5,18,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+478,cartao,app,RJ,7,33,0,cobranca em duplicidade,1,cobranca em duplicidade
+479,conta,app,PR,3,24,1,falha para gerar comprovante,0,falha para gerar comprovante
+480,emprestimo,agencia,SC,10,13,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+481,app,agencia,RS,5,30,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+482,conta,telefone,SC,8,30,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+483,emprestimo,agencia,CE,4,33,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+484,app,telefone,MG,6,14,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+485,app,app,RJ,4,6,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+486,conta,telefone,BA,3,30,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+487,app,agencia,PE,4,11,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+488,cartao,email,CE,4,14,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+489,cartao,telefone,RS,8,23,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+490,cartao,app,PR,5,14,1,falha para gerar comprovante,1,falha para gerar comprovante
+491,conta,telefone,SC,4,16,1,falha para gerar comprovante,0,falha para gerar comprovante
+492,cartao,telefone,DF,7,17,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+493,conta,chat,RJ,6,37,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+494,cartao,agencia,SC,9,23,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+495,emprestimo,app,PE,9,11,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+496,app,app,MG,4,15,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+497,app,chat,SP,5,15,0,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+498,emprestimo,email,SC,0,2,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+499,emprestimo,chat,RS,8,24,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+500,conta,agencia,PR,6,32,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+501,emprestimo,telefone,PR,5,1,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+502,cartao,telefone,PR,6,47,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+503,conta,agencia,BA,6,4,0,cobranca em duplicidade,0,cobranca em duplicidade
+504,emprestimo,agencia,DF,8,23,0,cobranca em duplicidade,0,cobranca em duplicidade
+505,emprestimo,agencia,PR,4,22,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+506,cartao,email,PR,5,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+507,conta,agencia,RJ,9,26,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+508,cartao,telefone,RJ,10,18,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+509,cartao,agencia,SP,5,38,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+510,cartao,email,SP,5,1,0,falha para gerar comprovante,0,falha para gerar comprovante
+511,cartao,telefone,MG,5,18,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+512,app,telefone,PR,8,28,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+513,cartao,email,BA,9,28,1,falha para gerar comprovante,0,falha para gerar comprovante
+514,emprestimo,telefone,RJ,7,7,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+515,conta,agencia,SP,3,28,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+516,conta,telefone,SC,4,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+517,cartao,app,PE,6,19,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+518,app,telefone,PE,7,12,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+519,emprestimo,agencia,PE,5,18,1,falha para gerar comprovante,1,falha para gerar comprovante
+520,conta,agencia,RS,10,26,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+521,cartao,telefone,RS,10,13,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+522,cartao,agencia,SP,8,13,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+523,conta,telefone,CE,5,10,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+524,app,email,PR,3,13,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+525,cartao,agencia,SP,7,14,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+526,conta,email,SC,10,31,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+527,cartao,email,PE,5,24,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+528,app,chat,CE,6,38,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+529,cartao,app,RS,4,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+530,cartao,agencia,PE,7,30,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+531,emprestimo,agencia,BA,4,28,0,falha para gerar comprovante,0,falha para gerar comprovante
+532,cartao,app,MG,4,10,0,cobranca em duplicidade,0,cobranca em duplicidade
+533,app,agencia,DF,5,60,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+534,cartao,telefone,CE,7,22,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+535,app,email,DF,6,22,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+536,cartao,app,RJ,3,15,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+537,cartao,telefone,MG,4,28,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+538,app,telefone,RJ,8,32,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+539,conta,chat,RJ,7,26,0,falha para gerar comprovante,1,falha para gerar comprovante
+540,conta,email,SP,4,30,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+541,cartao,agencia,MG,5,7,0,cobranca em duplicidade,1,cobranca em duplicidade
+542,app,agencia,BA,5,36,0,falha para gerar comprovante,0,falha para gerar comprovante
+543,emprestimo,agencia,RS,4,37,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+544,app,app,SC,6,27,1,atendimento demorado no telefone,1,atendimento demorado no telefone
+545,app,agencia,SP,7,11,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+546,emprestimo,agencia,PE,10,36,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+547,app,chat,CE,6,16,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+548,app,email,SP,7,6,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+549,conta,app,RJ,5,30,0,falha para gerar comprovante,0,falha para gerar comprovante
+550,conta,app,RJ,8,13,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+551,app,chat,PE,4,7,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+552,cartao,email,CE,3,35,0,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+553,cartao,telefone,PR,4,19,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+554,app,chat,RJ,5,28,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+555,conta,agencia,CE,8,20,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+556,emprestimo,app,CE,7,1,0,cobranca em duplicidade,0,cobranca em duplicidade
+557,app,chat,RS,4,39,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+558,app,chat,RJ,5,11,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+559,conta,chat,SP,4,31,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+560,emprestimo,chat,SC,7,48,0,cobranca em duplicidade,0,cobranca em duplicidade
+561,cartao,email,PR,6,32,0,falha para gerar comprovante,0,falha para gerar comprovante
+562,app,email,RS,5,25,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+563,emprestimo,app,MG,8,33,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+564,conta,agencia,CE,7,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+565,app,email,PR,6,23,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+566,app,app,RS,5,29,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+567,cartao,agencia,PE,9,33,0,cobranca em duplicidade,0,cobranca em duplicidade
+568,cartao,chat,BA,7,12,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+569,conta,email,PE,5,1,0,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+570,cartao,chat,DF,6,23,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+571,app,app,SP,3,24,0,cobranca em duplicidade,0,cobranca em duplicidade
+572,emprestimo,agencia,MG,2,6,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+573,cartao,app,RJ,5,12,0,falha para gerar comprovante,1,falha para gerar comprovante
+574,cartao,agencia,MG,4,23,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+575,cartao,agencia,SP,4,11,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+576,emprestimo,chat,PE,7,13,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+577,conta,email,RJ,7,15,0,falha para gerar comprovante,0,falha para gerar comprovante
+578,app,chat,RS,9,29,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+579,app,app,DF,1,25,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+580,emprestimo,agencia,BA,7,25,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+581,emprestimo,agencia,DF,4,57,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+582,conta,telefone,RS,7,4,0,falha para gerar comprovante,0,falha para gerar comprovante
+583,app,agencia,DF,7,16,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+584,emprestimo,email,CE,6,24,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+585,app,app,BA,7,17,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+586,cartao,app,SC,7,41,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+587,cartao,telefone,BA,7,25,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+588,emprestimo,chat,PR,10,40,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+589,emprestimo,chat,MG,5,37,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+590,emprestimo,email,RS,5,37,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+591,app,app,MG,8,34,0,falha para gerar comprovante,0,falha para gerar comprovante
+592,cartao,telefone,RJ,5,9,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+593,emprestimo,telefone,RJ,5,36,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+594,emprestimo,agencia,SC,8,31,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+595,cartao,chat,PE,6,30,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+596,conta,app,MG,8,28,0,cobranca em duplicidade,0,cobranca em duplicidade
+597,conta,app,SP,7,15,1,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+598,cartao,telefone,SC,9,28,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+599,cartao,email,DF,5,39,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+600,conta,email,RS,5,34,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+601,conta,chat,PE,6,20,1,limite reduzido sem aviso,1,limite reduzido sem aviso
+602,app,email,RS,7,15,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+603,cartao,telefone,MG,5,21,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+604,emprestimo,app,PR,6,8,0,cobranca em duplicidade,1,cobranca em duplicidade
+605,conta,email,PE,3,29,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+606,app,app,RS,5,16,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+607,conta,email,MG,3,31,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+608,app,telefone,RJ,10,11,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+609,app,agencia,PE,8,45,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+610,cartao,agencia,SP,4,2,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+611,emprestimo,telefone,BA,8,24,1,falha para gerar comprovante,0,falha para gerar comprovante
+612,emprestimo,app,PE,5,31,0,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+613,conta,app,SP,6,1,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+614,emprestimo,app,SP,5,27,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+615,emprestimo,email,RJ,10,24,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+616,conta,agencia,PR,8,16,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+617,emprestimo,email,RJ,8,26,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+618,emprestimo,agencia,RJ,4,20,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+619,app,app,PE,6,41,0,falha para gerar comprovante,0,falha para gerar comprovante
+620,emprestimo,telefone,PR,6,21,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+621,cartao,telefone,CE,6,18,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+622,app,chat,RJ,3,3,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+623,cartao,email,MG,2,7,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+624,app,app,PR,6,16,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+625,emprestimo,email,BA,6,9,0,falha para gerar comprovante,0,falha para gerar comprovante
+626,conta,agencia,SC,5,1,1,cobranca em duplicidade,0,cobranca em duplicidade
+627,conta,email,PR,5,11,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+628,app,telefone,SC,4,30,1,atendimento demorado no telefone,1,atendimento demorado no telefone
+629,cartao,chat,RJ,5,29,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+630,cartao,app,MG,4,33,1,transferencia nao executada no horario,1,transferencia nao executada no horario
+631,conta,agencia,PE,7,35,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+632,app,chat,MG,7,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+633,cartao,agencia,CE,5,24,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+634,emprestimo,agencia,BA,5,4,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+635,emprestimo,chat,PR,5,3,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+636,emprestimo,agencia,DF,4,21,0,cobranca em duplicidade,0,cobranca em duplicidade
+637,emprestimo,agencia,SP,5,8,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+638,cartao,telefone,RS,6,31,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+639,conta,telefone,BA,7,33,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+640,app,app,CE,8,12,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+641,cartao,telefone,RJ,6,1,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+642,app,app,RS,5,24,0,falha para gerar comprovante,1,falha para gerar comprovante
+643,app,chat,BA,5,32,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+644,cartao,app,RS,3,34,0,falha para gerar comprovante,1,falha para gerar comprovante
+645,app,agencia,PR,6,35,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+646,cartao,chat,CE,6,27,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+647,cartao,chat,RJ,5,15,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+648,emprestimo,email,RJ,7,38,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+649,cartao,telefone,PR,7,26,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+650,app,email,RJ,5,14,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+651,emprestimo,email,SP,5,21,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+652,emprestimo,app,SC,6,1,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+653,app,app,BA,7,15,0,cobranca em duplicidade,1,cobranca em duplicidade
+654,cartao,email,BA,3,24,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+655,conta,email,SC,3,43,0,falha para gerar comprovante,0,falha para gerar comprovante
+656,cartao,email,SC,6,30,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+657,app,telefone,DF,3,28,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+658,emprestimo,email,RS,5,40,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+659,app,app,SC,4,19,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+660,cartao,chat,MG,1,11,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+661,cartao,email,PR,4,27,1,falha para gerar comprovante,0,falha para gerar comprovante
+662,cartao,telefone,MG,2,53,0,cobranca em duplicidade,1,cobranca em duplicidade
+663,emprestimo,agencia,MG,8,53,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+664,cartao,chat,PE,5,16,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+665,cartao,email,RS,3,31,0,cobranca em duplicidade,0,cobranca em duplicidade
+666,app,app,BA,3,14,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+667,emprestimo,agencia,MG,6,26,0,falha para gerar comprovante,0,falha para gerar comprovante
+668,conta,chat,RJ,6,20,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+669,emprestimo,telefone,CE,5,39,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+670,emprestimo,app,SC,10,23,0,falha para gerar comprovante,0,falha para gerar comprovante
+671,conta,telefone,SP,4,35,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+672,emprestimo,email,BA,7,18,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+673,conta,email,PE,4,11,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+674,emprestimo,telefone,PE,4,27,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+675,emprestimo,chat,DF,6,20,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+676,cartao,app,DF,3,29,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+677,conta,chat,CE,5,15,1,falha para gerar comprovante,1,falha para gerar comprovante
+678,conta,app,PE,4,8,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+679,cartao,chat,RJ,8,20,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+680,conta,chat,PR,6,27,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+681,emprestimo,email,PR,9,35,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+682,conta,agencia,BA,3,5,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+683,emprestimo,email,RS,5,26,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+684,cartao,chat,CE,4,25,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+685,cartao,chat,RJ,6,22,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+686,app,agencia,RJ,5,17,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+687,emprestimo,chat,PR,6,17,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+688,app,telefone,PR,7,32,0,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+689,conta,email,SP,4,16,0,cobranca em duplicidade,0,cobranca em duplicidade
+690,emprestimo,email,BA,5,1,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+691,conta,chat,SC,3,14,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+692,emprestimo,agencia,RJ,8,34,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+693,cartao,agencia,PE,4,3,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+694,emprestimo,app,DF,4,9,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+695,app,chat,SC,6,21,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+696,emprestimo,app,CE,5,33,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+697,cartao,agencia,DF,7,30,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+698,app,agencia,MG,8,35,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+699,cartao,agencia,BA,4,28,1,cobranca em duplicidade,1,cobranca em duplicidade
+700,emprestimo,telefone,PR,5,12,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+701,app,chat,PR,3,16,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+702,emprestimo,app,RS,5,65,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+703,app,email,RJ,6,47,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+704,conta,app,DF,6,13,1,app travando na tela de pagamento,1,app travando na tela de pagamento
+705,conta,chat,SP,8,29,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+706,app,telefone,RS,5,27,0,falha para gerar comprovante,0,falha para gerar comprovante
+707,emprestimo,chat,BA,8,31,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+708,conta,chat,RJ,3,17,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+709,app,email,CE,8,24,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+710,app,app,SP,6,19,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+711,app,agencia,RJ,7,11,0,cobranca em duplicidade,0,cobranca em duplicidade
+712,conta,chat,MG,1,27,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+713,conta,agencia,RJ,8,20,1,falha para gerar comprovante,0,falha para gerar comprovante
+714,cartao,telefone,PE,6,27,0,falha para gerar comprovante,0,falha para gerar comprovante
+715,app,email,MG,8,38,0,cobranca em duplicidade,0,cobranca em duplicidade
+716,app,telefone,RS,7,63,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+717,app,chat,BA,9,15,0,cobranca em duplicidade,1,cobranca em duplicidade
+718,emprestimo,email,BA,8,38,1,cobranca em duplicidade,1,cobranca em duplicidade
+719,app,app,PE,7,24,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+720,cartao,telefone,RS,4,26,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+721,conta,email,RS,8,20,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+722,cartao,agencia,CE,7,3,0,falha para gerar comprovante,0,falha para gerar comprovante
+723,app,chat,DF,8,18,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+724,conta,app,PE,6,37,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+725,app,chat,MG,9,28,0,app travando na tela de pagamento,1,app travando na tela de pagamento
+726,app,chat,PE,4,40,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+727,emprestimo,telefone,RS,9,15,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+728,conta,chat,MG,2,13,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+729,conta,app,CE,4,44,1,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+730,app,chat,DF,4,24,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+731,conta,telefone,SC,1,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+732,app,chat,DF,5,23,0,cobranca em duplicidade,1,cobranca em duplicidade
+733,emprestimo,agencia,MG,4,25,1,transferencia nao executada no horario,1,transferencia nao executada no horario
+734,cartao,telefone,MG,8,29,0,cobranca em duplicidade,0,cobranca em duplicidade
+735,emprestimo,chat,SP,9,36,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+736,conta,app,MG,6,21,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+737,emprestimo,telefone,PR,4,28,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+738,emprestimo,agencia,CE,5,10,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+739,conta,app,PE,7,19,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+740,emprestimo,app,CE,5,16,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+741,cartao,email,DF,5,32,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+742,conta,chat,CE,7,1,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+743,app,agencia,PE,9,27,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+744,app,telefone,PE,5,31,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+745,cartao,telefone,SP,3,12,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+746,conta,app,SC,3,8,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+747,app,chat,CE,5,39,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+748,app,email,DF,8,22,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+749,emprestimo,agencia,DF,8,27,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+750,conta,agencia,SP,3,15,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+751,emprestimo,agencia,SC,5,6,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+752,cartao,agencia,PR,6,46,1,limite reduzido sem aviso,1,limite reduzido sem aviso
+753,conta,email,SC,4,27,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+754,cartao,agencia,PR,3,29,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+755,conta,telefone,RJ,5,7,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+756,emprestimo,email,DF,5,17,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+757,app,agencia,MG,4,35,0,cobranca em duplicidade,0,cobranca em duplicidade
+758,app,app,PE,4,27,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+759,app,chat,RS,7,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+760,emprestimo,agencia,RS,5,29,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+761,app,telefone,CE,3,29,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+762,app,chat,MG,4,27,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+763,emprestimo,email,BA,4,6,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+764,emprestimo,app,RJ,9,32,0,falha para gerar comprovante,0,falha para gerar comprovante
+765,app,telefone,RS,5,39,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+766,conta,telefone,SC,5,20,1,falha para gerar comprovante,0,falha para gerar comprovante
+767,conta,email,CE,6,22,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+768,emprestimo,telefone,RS,6,15,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+769,cartao,app,DF,3,23,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+770,conta,telefone,RS,7,36,0,falha para gerar comprovante,0,falha para gerar comprovante
+771,cartao,email,RS,6,1,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+772,cartao,app,DF,4,15,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+773,cartao,app,PR,6,33,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+774,emprestimo,telefone,SC,4,27,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+775,emprestimo,app,SP,6,31,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+776,app,app,BA,9,27,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+777,app,agencia,SP,1,18,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+778,conta,agencia,PR,8,20,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+779,app,chat,PE,5,34,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+780,conta,app,SP,6,33,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+781,conta,chat,SP,9,32,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+782,conta,chat,RJ,6,11,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+783,emprestimo,email,MG,9,18,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+784,cartao,telefone,SC,3,56,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+785,conta,app,MG,7,46,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+786,emprestimo,app,MG,3,2,0,cobranca em duplicidade,1,cobranca em duplicidade
+787,app,app,MG,3,1,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+788,conta,chat,SC,4,34,0,falha para gerar comprovante,0,falha para gerar comprovante
+789,conta,email,CE,4,26,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+790,emprestimo,telefone,RS,5,25,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+791,app,app,PE,4,4,0,cobranca em duplicidade,0,cobranca em duplicidade
+792,emprestimo,telefone,SC,7,39,0,falha para gerar comprovante,0,falha para gerar comprovante
+793,cartao,telefone,PE,5,18,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+794,app,telefone,DF,6,33,1,falha para gerar comprovante,0,falha para gerar comprovante
+795,emprestimo,email,RS,4,16,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+796,conta,email,DF,5,16,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+797,cartao,chat,MG,5,28,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+798,cartao,telefone,PE,7,18,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+799,conta,agencia,BA,6,19,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+800,app,agencia,PE,8,13,0,falha para gerar comprovante,0,falha para gerar comprovante
+801,cartao,telefone,SC,6,25,1,limite reduzido sem aviso,1,limite reduzido sem aviso
+802,cartao,email,PR,6,37,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+803,emprestimo,app,RJ,5,20,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+804,cartao,email,BA,4,34,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+805,emprestimo,app,RS,5,23,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+806,app,agencia,DF,3,3,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+807,conta,chat,RS,9,16,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+808,app,telefone,RS,6,58,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+809,app,agencia,BA,4,36,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+810,app,telefone,SC,9,19,0,falha para gerar comprovante,0,falha para gerar comprovante
+811,emprestimo,agencia,MG,3,23,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+812,emprestimo,chat,SC,6,24,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+813,conta,email,RS,7,3,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+814,cartao,telefone,DF,4,28,0,falha para gerar comprovante,0,falha para gerar comprovante
+815,emprestimo,email,RJ,6,30,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+816,cartao,telefone,CE,9,16,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+817,app,agencia,SC,5,23,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+818,app,agencia,DF,7,7,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+819,emprestimo,email,DF,7,16,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+820,emprestimo,agencia,RS,3,1,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+821,app,telefone,PR,1,11,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+822,emprestimo,app,SP,2,10,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+823,cartao,telefone,RS,4,24,1,cobranca em duplicidade,1,cobranca em duplicidade
+824,emprestimo,email,DF,5,38,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+825,conta,email,RJ,2,31,1,falha para gerar comprovante,0,falha para gerar comprovante
+826,cartao,telefone,SC,4,20,1,atendimento demorado no telefone,1,atendimento demorado no telefone
+827,conta,email,MG,3,9,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+828,app,chat,DF,7,10,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+829,emprestimo,app,DF,6,19,0,cobranca em duplicidade,0,cobranca em duplicidade
+830,app,chat,MG,7,6,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+831,cartao,telefone,CE,7,39,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+832,conta,email,RS,6,26,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+833,conta,telefone,PE,4,22,0,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+834,app,chat,BA,8,25,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+835,app,agencia,RJ,5,33,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+836,cartao,email,RS,8,27,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+837,app,chat,PR,9,30,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+838,emprestimo,chat,DF,7,12,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+839,conta,app,MG,5,46,0,falha para gerar comprovante,0,falha para gerar comprovante
+840,cartao,chat,BA,8,14,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+841,emprestimo,telefone,BA,6,1,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+842,conta,chat,PR,6,18,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+843,app,chat,PE,5,28,0,falha para gerar comprovante,0,falha para gerar comprovante
+844,conta,telefone,RJ,5,16,0,falha para gerar comprovante,0,falha para gerar comprovante
+845,app,email,MG,7,26,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+846,cartao,chat,CE,6,27,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+847,conta,agencia,PE,4,15,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+848,app,agencia,DF,6,13,0,cobranca em duplicidade,0,cobranca em duplicidade
+849,conta,chat,PE,6,4,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+850,emprestimo,email,RJ,7,8,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+851,app,chat,RS,5,12,0,cobranca em duplicidade,0,cobranca em duplicidade
+852,cartao,chat,RS,8,19,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+853,app,chat,RS,5,33,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+854,emprestimo,telefone,RJ,5,36,0,cobranca em duplicidade,0,cobranca em duplicidade
+855,cartao,telefone,DF,3,24,0,falha para gerar comprovante,0,falha para gerar comprovante
+856,conta,agencia,RS,8,34,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+857,emprestimo,email,DF,6,37,1,cobranca em duplicidade,1,cobranca em duplicidade
+858,cartao,chat,DF,5,24,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+859,conta,app,RJ,5,20,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+860,emprestimo,agencia,MG,8,18,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+861,emprestimo,chat,MG,6,28,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+862,app,app,MG,4,25,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+863,cartao,app,PE,4,6,0,cobranca em duplicidade,0,cobranca em duplicidade
+864,conta,chat,RS,5,30,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+865,conta,app,BA,3,13,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+866,app,app,SP,4,34,0,cobranca em duplicidade,0,cobranca em duplicidade
+867,cartao,chat,BA,5,24,1,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+868,emprestimo,chat,SC,5,15,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+869,app,chat,CE,5,17,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+870,cartao,chat,SC,6,12,0,cobranca em duplicidade,0,cobranca em duplicidade
+871,app,agencia,BA,5,28,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+872,conta,app,CE,0,18,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+873,cartao,email,RJ,4,24,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+874,conta,telefone,DF,8,31,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+875,app,email,BA,1,23,1,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+876,cartao,agencia,SC,4,1,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+877,emprestimo,email,BA,5,18,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+878,conta,telefone,CE,8,3,0,cobranca em duplicidade,0,cobranca em duplicidade
+879,cartao,app,BA,10,11,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+880,app,telefone,DF,6,11,0,erro 502 ao contratar emprestimo,1,erro 502 ao contratar emprestimo
+881,cartao,email,SP,8,35,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+882,conta,app,BA,6,18,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+883,cartao,telefone,RS,3,11,1,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+884,conta,agencia,BA,4,18,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+885,emprestimo,app,SC,7,31,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+886,app,agencia,RJ,8,28,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+887,emprestimo,agencia,PE,7,4,0,falha para gerar comprovante,0,falha para gerar comprovante
+888,conta,email,PR,4,28,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+889,conta,email,MG,7,33,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+890,conta,email,CE,8,27,0,cobranca em duplicidade,0,cobranca em duplicidade
+891,emprestimo,agencia,RJ,8,33,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+892,app,app,MG,6,30,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+893,conta,email,MG,5,5,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+894,emprestimo,chat,BA,8,16,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+895,conta,telefone,SC,5,18,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+896,cartao,app,PE,7,27,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+897,emprestimo,app,PE,9,29,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+898,cartao,telefone,DF,8,15,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+899,cartao,agencia,DF,4,35,0,falha para gerar comprovante,0,falha para gerar comprovante
+900,cartao,chat,CE,5,40,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+901,conta,telefone,SP,5,23,0,falha para gerar comprovante,0,falha para gerar comprovante
+902,cartao,agencia,MG,6,32,0,falha para gerar comprovante,0,falha para gerar comprovante
+903,emprestimo,chat,SP,9,48,1,cobranca em duplicidade,0,cobranca em duplicidade
+904,emprestimo,chat,RJ,6,27,1,app travando na tela de pagamento,0,app travando na tela de pagamento
+905,emprestimo,app,SP,7,27,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+906,conta,app,DF,1,23,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+907,app,telefone,DF,5,17,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+908,emprestimo,email,PE,5,34,0,cobranca em duplicidade,0,cobranca em duplicidade
+909,conta,email,PE,4,25,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+910,app,agencia,CE,4,45,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+911,conta,telefone,MG,5,16,0,cobranca em duplicidade,1,cobranca em duplicidade
+912,conta,agencia,BA,8,20,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+913,cartao,chat,PR,4,28,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+914,cartao,email,SC,4,20,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+915,conta,telefone,MG,4,27,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+916,cartao,app,RJ,8,2,0,falha para gerar comprovante,0,falha para gerar comprovante
+917,app,telefone,PR,6,26,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+918,emprestimo,app,SP,7,33,0,falha para gerar comprovante,0,falha para gerar comprovante
+919,emprestimo,telefone,SP,2,31,0,falha para gerar comprovante,0,falha para gerar comprovante
+920,app,app,BA,3,21,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+921,emprestimo,telefone,BA,6,36,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+922,conta,app,DF,8,12,1,falha para gerar comprovante,1,falha para gerar comprovante
+923,emprestimo,email,SP,6,23,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+924,cartao,app,RJ,4,4,0,falha para gerar comprovante,0,falha para gerar comprovante
+925,emprestimo,telefone,RS,4,45,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+926,cartao,telefone,RS,8,31,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+927,emprestimo,app,DF,5,12,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+928,emprestimo,chat,DF,7,20,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+929,conta,chat,SP,3,13,0,cobranca em duplicidade,1,cobranca em duplicidade
+930,conta,agencia,PE,4,24,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+931,cartao,email,DF,4,12,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+932,cartao,agencia,DF,4,33,0,cobranca em duplicidade,1,cobranca em duplicidade
+933,emprestimo,telefone,MG,4,18,1,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+934,conta,agencia,RS,4,17,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+935,cartao,agencia,SC,6,5,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+936,conta,app,DF,8,33,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+937,app,telefone,PE,7,22,0,falha para gerar comprovante,0,falha para gerar comprovante
+938,emprestimo,app,MG,5,15,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+939,emprestimo,email,BA,3,13,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+940,emprestimo,chat,MG,6,31,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+941,conta,telefone,CE,7,28,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+942,app,app,PE,4,21,0,cobranca em duplicidade,0,cobranca em duplicidade
+943,cartao,app,MG,3,43,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+944,emprestimo,email,RS,7,40,1,cobranca em duplicidade,0,cobranca em duplicidade
+945,emprestimo,chat,SP,5,5,1,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+946,emprestimo,agencia,CE,5,13,1,aplicativo fecha sozinho,1,aplicativo fecha sozinho
+947,emprestimo,email,MG,3,17,0,falha para gerar comprovante,1,falha para gerar comprovante
+948,conta,app,SC,4,24,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+949,conta,email,BA,6,21,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+950,app,app,PR,8,31,0,falha para gerar comprovante,0,falha para gerar comprovante
+951,cartao,agencia,SP,6,26,0,atendimento demorado no telefone,1,atendimento demorado no telefone
+952,cartao,app,DF,8,33,1,falha para gerar comprovante,0,falha para gerar comprovante
+953,conta,agencia,BA,6,54,1,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+954,conta,telefone,SP,8,28,0,cobranca em duplicidade,0,cobranca em duplicidade
+955,app,chat,SC,9,1,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+956,app,email,RJ,1,29,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+957,emprestimo,agencia,SC,2,32,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+958,cartao,chat,RJ,4,4,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+959,app,email,DF,7,17,1,fatura com tarifa nao informada,1,fatura com tarifa nao informada
+960,app,agencia,RJ,6,28,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+961,app,chat,PE,5,27,0,atendimento demorado no telefone,0,atendimento demorado no telefone
+962,app,agencia,PE,6,24,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+963,emprestimo,agencia,RS,6,26,0,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+964,conta,telefone,BA,4,12,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+965,conta,telefone,PR,4,45,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+966,conta,agencia,CE,10,26,0,transferencia nao executada no horario,1,transferencia nao executada no horario
+967,app,email,CE,8,31,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+968,emprestimo,telefone,SC,6,26,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+969,emprestimo,app,DF,10,5,1,cartao bloqueado sem motivo,1,cartao bloqueado sem motivo
+970,conta,app,SC,6,25,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+971,conta,agencia,RS,6,3,0,cobranca em duplicidade,0,cobranca em duplicidade
+972,conta,email,PR,6,40,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+973,emprestimo,app,PR,7,2,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+974,cartao,agencia,DF,7,30,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+975,conta,chat,BA,5,28,0,cobranca em duplicidade,1,cobranca em duplicidade
+976,cartao,email,CE,6,13,1,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+977,conta,app,RJ,7,16,0,limite reduzido sem aviso,1,limite reduzido sem aviso
+978,emprestimo,app,PE,9,22,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+979,emprestimo,telefone,PE,8,54,0,app travando na tela de pagamento,0,app travando na tela de pagamento
+980,emprestimo,telefone,RS,4,20,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+981,emprestimo,chat,PE,9,30,0,cobranca em duplicidade,1,cobranca em duplicidade
+982,emprestimo,email,PE,6,18,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+983,app,telefone,RS,5,26,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+984,emprestimo,agencia,DF,7,37,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+985,app,app,PR,4,11,0,transferencia nao executada no horario,0,transferencia nao executada no horario
+986,app,telefone,MG,7,19,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+987,app,chat,SP,5,8,1,cobranca em duplicidade,1,cobranca em duplicidade
+988,app,chat,RJ,7,54,0,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+989,conta,agencia,SC,6,14,0,cartao bloqueado sem motivo,0,cartao bloqueado sem motivo
+990,cartao,email,SC,5,6,1,transferencia nao executada no horario,0,transferencia nao executada no horario
+991,app,chat,RJ,8,32,0,aplicativo fecha sozinho,0,aplicativo fecha sozinho
+992,emprestimo,app,PR,8,36,1,erro 502 ao contratar emprestimo,0,erro 502 ao contratar emprestimo
+993,emprestimo,email,PR,7,23,0,falha para gerar comprovante,0,falha para gerar comprovante
+994,cartao,email,BA,3,29,1,limite reduzido sem aviso,0,limite reduzido sem aviso
+995,emprestimo,agencia,DF,6,48,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+996,app,app,RJ,3,37,1,atendimento demorado no telefone,0,atendimento demorado no telefone
+997,emprestimo,agencia,PE,8,19,1,falha para gerar comprovante,0,falha para gerar comprovante
+998,cartao,email,RJ,6,47,0,limite reduzido sem aviso,0,limite reduzido sem aviso
+999,conta,telefone,SP,9,38,0,fatura com tarifa nao informada,0,fatura com tarifa nao informada
+1000,cartao,telefone,PE,6,29,1,transferencia nao executada no horario,0,transferencia nao executada no horario
